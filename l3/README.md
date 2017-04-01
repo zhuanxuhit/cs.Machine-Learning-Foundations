@@ -67,3 +67,10 @@
 
 
 ![](http://static.obeobe.com/image/blog-image/machine-learning-foundations-3-19.png)
+
+
+
+
+
+参考：[林軒田教授機器學習基石 MACHINE LEARNING FOUNDATIONS 第三講學習筆記](http://blog.fukuball.com/lin-xuan-tian-jiao-shou-ji-qi-xue-xi-ji-shi-machine-learning-foundations-di-san-jiang-xue-xi-bi-ji/)
+
